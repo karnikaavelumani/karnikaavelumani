@@ -1,7 +1,6 @@
 <div align="center">
-  <h3>Yahallo! My name is Karni. Welcome to my GitHub page❤️</h3>
-  
-  ![Oregairu Anime GIF](https://github.com/karnikaavelumani/karnikaavelumani/assets/60043611/0fc5b65f-d583-4326-87bb-1285e0df8180)
+  <h3>Hello everyone! My name is Karni. Welcome to my GitHub page❤️</h3>
+  <img alt="Discord Banner" src="https://github.com/user-attachments/assets/f6670680-744e-4066-8aa5-1def885cc5cf">
 </div>
 
 <div align="center">

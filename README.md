@@ -1,6 +1,6 @@
 <div align="center">
-  <h3>Hello everyone! My name is Karni. Welcome to my GitHub page❤️</h3>
   <img alt="Discord Banner" src="https://github.com/user-attachments/assets/f6670680-744e-4066-8aa5-1def885cc5cf">
+  <h3>Hello everyone! My name is Karni. Welcome to my GitHub page❤️</h3>
 </div>
 
 <div align="center">

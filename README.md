@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/12ba71a3-c7a7-49f7-9d1b-ca2ff0919ad3)
 
-<h2>Hello everyone! My name is Karni. Welcome to my GitHub page❤️</h2>
+<!-- <h2>Hello everyone! My name is Karni. Welcome to my GitHub page❤️</h2>
 <h4>💻Check out my portfolio website here: <a href="https://karni.dev/">karni.dev</a></h4>
 
 <h4>👉Get in touch</h4>
@@ -26,4 +26,4 @@
 	<a href="https://www.facebook.com/karnikaa.velumani"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%230866FF?logo=facebook&logoColor=white"></a>
 	<a href="https://www.figma.com/@karni"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E?logo=figma&logoColor=white"></a>
 	<a href="https://anilist.co/user/DemonicGoat/"><img alt="Anilist" src="https://img.shields.io/badge/anilist-%2302A9FF?logo=anilist&logoColor=white"></a>
-</p>
+</p> -->
